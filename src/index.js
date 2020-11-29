@@ -1,3 +1,4 @@
-import { Saludar } from './helpers';
+import { Saludar } from './js/helpers';
+import './styles.css';
 
 Saludar('Kevin Karahali');
